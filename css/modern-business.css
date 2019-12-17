@@ -5,6 +5,9 @@
  */
 body {
   padding-top: 56px;
+  font-family: "avenir";
+  background-color:  #1e0a1c  ;
+  color: #c34654;
 }
 
 .carousel-item {
@@ -19,4 +22,9 @@ body {
 
 .portfolio-item {
   margin-bottom: 30px;
+}
+
+
+.bg-primary {
+  background-color: #1e0a1c !important;
 }
